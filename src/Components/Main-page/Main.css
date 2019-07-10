@@ -1,0 +1,30 @@
+.folder-name {
+  border: 1px black solid;
+  margin: 0;
+  height: 4rem;
+  text-align: center;
+  width: 10rem;
+}
+
+.note-container {
+  margin-left: 10rem;
+}
+
+.notes {
+  border: 1px black solid;
+  width: 30rem;
+  margin-bottom: 3rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+ul {
+  list-style-type: none;
+  list-style: none;
+  padding: 0;
+}
+
+.note-date {
+  display: flex;
+  justify-content: space-between;
+}
